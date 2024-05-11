@@ -1,7 +1,7 @@
 #!/bin/python3
 
 # -*- Author: real0x0a1 (Ali) -*-
-
+# -*- File: main.py -*-
 
 import urllib3
 import xlwt
