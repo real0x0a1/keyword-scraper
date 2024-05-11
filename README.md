@@ -45,3 +45,5 @@ A Python script to scrape keywords and related data from Google search results a
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any bugs or have suggestions for improvements.
 
 ## **Version**
+
+1.0.0
