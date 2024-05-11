@@ -47,3 +47,5 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## **Version**
 
 1.0.0
+
+## Author
