@@ -49,3 +49,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 1.0.0
 
 ## Author
+
+real0x0a1 (Ali)
+
+---
